@@ -1,13 +1,11 @@
-
-
-
 The New York Times Upshot/Siena College Research Institute survey of Mich., Penn., Wisc., Fla., Ariz., and N.C. was conducted between Oct. 13 and Oct. 20.
 The survey is a response-rate adjustred stratified sample of registered voters selected from active registered voters on the L2 voter file. 
 The probability of selection was inversely proportionate to telephone coverage in each strata and the probability of response, based on responses to 2018 Times/Siena surveys. The strata in each state were defined by the interaction between party, region and race.
 Voters were contacted on cellular and landline telephones. Over all, 70 percent of respondents were reached on a cell phone and 30 percent were reached on landline.
-Interviewers asked for the person named on the voter file, and ended the interview if the intended respondent was not available. Interviews were conducted in English and in Spanish.
-The six state samples were weighted separately to match the composition of active registered voters by age, race, region, turnout, party, gender and education.
+Interviewers asked for the person named on the voter file, ended the interview if the intended respondent was not available, and conducted interviews in English and Spanish with eligible respondents. 
+The six state samples were weighted separately to match the composition of active registered voters in each state by age, race, region, turnout, party, gender and education.
 Population parameters for the composition of registered voters were based on active registered voters on the L2 voter file, except education.
 The estimates for education are based on a model of turnout in the November 2016 voting and registration supplement to the census Current Population Survey, adjusted to match current statewide voter registration figures and estimates for the demographic composition of the adult civilian non-institutionalized population, based on data from the American Community Survey.
-The weight for partisanship is based on partisan vote history in Michigan, party registration in Florida, Pennsylvania, North Carolina and Arizona, and a model of likely support for Donald J. Trump in the 2016 presidential election in Wisconsin.
-The final survey weight balanced the six state subsamples to represent one-sixth of the weighted sample. 
+The weight for partisanship is based on party registration in Florida, Pennsylvania, North Carolina and Arizona, participation in recent partisan primaries in Michigan, and a model of likely support for Donald J. Trump in the 2016 presidential election in Wisconsin.
+The final survey weight balanced the six state subsamples to represent one-sixth of the weighted sample.
+The margin of error is plus or minus 2.8 percent, and is adjusted for the poll's design effect of 1.53.
